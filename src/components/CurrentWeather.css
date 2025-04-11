@@ -1,0 +1,22 @@
+.weather-card {
+    background: #1a2c4b;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 10px #00000055;
+  }
+  
+  .main-info {
+    text-align: center;
+  }
+  
+  .main-info img {
+    width: 100px;
+  }
+  
+  .extra-info {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+  }
+  
